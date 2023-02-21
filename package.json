@@ -5,7 +5,7 @@
     "hardhat": "^2.12.7"
   },
   "dependencies": {
-    "openzeppelin-solidity": "^3.4.2"
+    "openzeppelin-solidity": "^2.4.0"
   },
   "files": [
     "/contracts"
